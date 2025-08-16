@@ -5,6 +5,30 @@
       "username": "rep1",
       "password": "rep1",
       "name": "Sales Rep One"
+    },
+    {
+      "id": "u_2",
+      "username": "soumi",
+      "password": "soumi",
+      "name": "Soumi"
+    },
+    {
+      "id": "u_3",
+      "username": "rashi",
+      "password": "rashi",
+      "name": "Rashi"
+    },
+    {
+      "id": "u_4",
+      "username": "apoorv",
+      "password": "apoorv",
+      "name": "Apoorv"
+    },
+    {
+      "id": "u_5",
+      "username": "arnav",
+      "password": "arnav",
+      "name": "Arnav"
     }
   ],
   "leads": []
